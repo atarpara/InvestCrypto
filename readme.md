@@ -13,3 +13,6 @@ Example :
 Inverstor have a 1 WETH and he/she want to stake 1 WETH into 33% in the DAI, 33% in the USDT and 34% in the WBTC Crypto.
 
 This Smart contract first swap 1 WETH into DAI, USDT and WBTC form the Balnacer V2 Protocol and output amount Stake into AAVE v2 Protocol at onces user doesn't into 2 3 time swap and stake the coin on different smart contract.
+
+
+Deployed Smart contract Address: [0xc5D186f08Cfef5B1193dCd4C7C52a09Bf04b6759](https://kovan.etherscan.io/address/0xc5D186f08Cfef5B1193dCd4C7C52a09Bf04b6759)
